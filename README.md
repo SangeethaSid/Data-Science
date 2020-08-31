@@ -1,1 +1,1 @@
-# Advance house price prediction
+# Advanced house price prediction
